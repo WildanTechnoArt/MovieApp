@@ -1,6 +1,8 @@
 # Mandatory Task
 # OPTION 1
-Create a mobile native application to show movies using API from https://api.themoviedb.org User stories:
+Create a mobile native application to show movies using API from https://api.themoviedb.org
+
+User stories:
 1. Create a screen to display the list of official genres for movies.
 2. Create a screen to list of discover movies by genre.
 3. Show the primary information about a movie when user click on of the movie.
@@ -8,6 +10,12 @@ Create a mobile native application to show movies using API from https://api.the
 5. Show the youtube trailer of the movie.
 6. Implement endless scrolling on list of movies and users review.
 7. Cover positive and negative cases.
+
+# Info:
+1. Programming languages: Android(Kotlin).
+2. Using design pattern MVVM
+4. Use 3rd party library.
+5. Clean Code.
 
 # Screenshot
 Screen to display the list of official
