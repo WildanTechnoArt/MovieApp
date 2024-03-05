@@ -22,8 +22,9 @@ Screen information about a movie
 
 ![Screen information about a movie](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/523831c4-ad0f-4390-b538-e9dd1a0a502e)
 
+Screen All Review
 ![All reviews](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/56890c57-f0a2-45d9-8721-62ae85752190)
-
 ![Show review](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/da97b939-d7b7-490b-944e-04d39e5d18aa)
 
+Screen Video Trailer
 ![Trailer video](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/2de38302-9834-4ac3-9503-735bf8dfc46a)
