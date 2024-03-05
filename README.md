@@ -10,4 +10,4 @@ Create a mobile native application to show movies using API from https://api.the
 7. Cover positive and negative cases.
 
 # Screenshot
-![List Genres Screen](["https://drive.google.com/file/d/1YhGAi5e7HknbCnIQvgvO0-U69VSXGGWu/view?usp=sharing](https://lh3.googleusercontent.com/-2TDvLFlwNEQ/Zeay_snDGxI/AAAAAAAAJS8/EZM9AY6dib4DGFA1fx-dBdx_HVnafQXxACNcBGAsYHQ/h240/WhatsApp%2BImage%2B2024-03-05%2Bat%2B11.30.22.jpeg)https://lh3.googleusercontent.com/-2TDvLFlwNEQ/Zeay_snDGxI/AAAAAAAAJS8/EZM9AY6dib4DGFA1fx-dBdx_HVnafQXxACNcBGAsYHQ/h240/WhatsApp%2BImage%2B2024-03-05%2Bat%2B11.30.22.jpeg")
+![List Genres Screen]("https://lh3.googleusercontent.com/-2TDvLFlwNEQ/Zeay_snDGxI/AAAAAAAAJS8/EZM9AY6dib4DGFA1fx-dBdx_HVnafQXxACNcBGAsYHQ/h240/WhatsApp%2BImage%2B2024-03-05%2Bat%2B11.30.22.jpeg")
