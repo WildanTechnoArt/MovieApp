@@ -10,13 +10,16 @@ Create a mobile native application to show movies using API from https://api.the
 7. Cover positive and negative cases.
 
 # Screenshot
-1. Screen to display the list of official
+Screen to display the list of official
+
 ![Screen to display the list of official genres for movies](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/dd1e403d-0f28-4fd7-b414-225d6cb0b445)
 
-2. Screen to list of discover movies by genre
+Screen to list of discover movies by genre
+
 ![Screen to list of discover movies by genre](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/c17d15e9-298f-4832-881a-eae49dac5ea6)
 
-3. Screen information about a movie
+Screen information about a movie
+
 ![Screen information about a movie](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/523831c4-ad0f-4390-b538-e9dd1a0a502e)
 
 ![All reviews](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/56890c57-f0a2-45d9-8721-62ae85752190)
