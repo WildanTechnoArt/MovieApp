@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress NavigationFile -->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation_graph"
+    app:startDestination="@id/genresFragment">
+
+    <fragment
+        android:id="@+id/genresFragment"
+        android:name="com.wildantechnoart.movieapp.view.GenresFragment"
+        android:label="@string/label_fragment_genres"
+        tools:layout="@layout/fragment_genres" >
+        <action
+            android:id="@+id/action_genresFragment_to_moviesFragment"
+            app:destination="@id/moviesFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/moviesFragment"
+        android:name="com.wildantechnoart.movieapp.view.MoviesFragment"
+        android:label="@string/label_fragment_movie"
+        tools:layout="@layout/fragment_movie" >
+        <argument
+            android:name="genreId"
+            app:argType="string" />
+        <argument
+            android:name="genreName"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_moviesFragment_to_detailMovieFragment"
+            app:destination="@id/detailMovieFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailMovieFragment"
+        android:name="com.wildantechnoart.movieapp.view.DetailMovieFragment"
+        android:label="@string/label_fragment_detail"
+        tools:layout="@layout/fragment_detail" >
+        <argument
+            android:name="movieId"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_detailMovieFragment_to_videoViewActivity"
+            app:destination="@id/videoViewActivity" />
+        <action
+            android:id="@+id/action_detailMovieFragment_to_reviewFragment"
+            app:destination="@id/reviewFragment"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/reviewFragment"
+        android:name="com.wildantechnoart.movieapp.view.ReviewFragment"
+        android:label="@string/label_fragment_review"
+        tools:layout="@layout/fragment_review" >
+        <argument
+            android:name="movieId"
+            app:argType="string" />
+        <argument
+            android:name="movieName"
+            app:argType="string" />
+    </fragment>
+    <activity
+        android:id="@+id/videoViewActivity"
+        android:name="com.wildantechnoart.movieapp.view.VideoViewActivity"
+        android:label="activity_video_view"
+        tools:layout="@layout/activity_video_view" />
+</navigation>

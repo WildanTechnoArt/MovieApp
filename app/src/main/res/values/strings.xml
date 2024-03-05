@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="request_none_data">.................</string>
+    <string name="message_if_disconnect">Tidak Terhubung Dengan Internet</string>
+    <string name="message_if_server_error">Sedang ada pemeliharaan server</string>
+    <string name="message_if_error">Terjadi kesalahan, silakan coba lagi</string>
+    <string name="message_if_not_data">Tidak ada data</string>
+    <string name="host_nav_main">navigation</string>
+    <string name="label_fragment_genres">List of Film Genres</string>
+    <string name="action_detail">Detail</string>
+    <string name="rate">Rate</string>
+    <string name="label_fragment_movie">List Movie</string>
+    <string name="poster_backdrop">Poster Backdrop</string>
+    <string name="label_overview">overview</string>
+    <string name="poster">poster</string>
+    <string name="label_movie_title">Movie Title</string>
+    <string name="label_movie_date">Movie Date</string>
+    <string name="label_movie_genres">Genres</string>
+    <string name="action_show_trailer">Show Trailer</string>
+    <string name="label_genres">Genres</string>
+    <string name="label_fragment_detail">Detail Movie</string>
+    <string name="label_date">Release Date</string>
+    <string name="label_rate">Rate Movie</string>
+    <string name="pause">pause</string>
+    <string name="message_if_trailer_not_found">Video Trailer tidak ditemukan</string>
+    <string name="label_review">List Reviews</string>
+    <string name="message_if_not_review">There are no reviews yet</string>
+    <string name="label_show_all">Show All</string>
+    <string name="label_fragment_review">All Reviews</string>
+</resources>
