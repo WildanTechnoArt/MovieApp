@@ -10,4 +10,4 @@ Create a mobile native application to show movies using API from https://api.the
 7. Cover positive and negative cases.
 
 # Screenshot
-![List Genres Screen]("https://lh3.googleusercontent.com/-2TDvLFlwNEQ/Zeay_snDGxI/AAAAAAAAJS8/EZM9AY6dib4DGFA1fx-dBdx_HVnafQXxACNcBGAsYHQ/h240/WhatsApp%2BImage%2B2024-03-05%2Bat%2B11.30.22.jpeg")
+![Screen to display the list of official genres for movies](https://github.com/WildanTechnoArt/MovieApp/assets/25716410/dd1e403d-0f28-4fd7-b414-225d6cb0b445)
