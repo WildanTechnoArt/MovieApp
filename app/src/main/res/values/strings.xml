@@ -1,10 +1,9 @@
 <resources>
     <string name="app_name">MovieApp</string>
     <string name="request_none_data">.................</string>
-    <string name="message_if_disconnect">Tidak Terhubung Dengan Internet</string>
-    <string name="message_if_server_error">Sedang ada pemeliharaan server</string>
-    <string name="message_if_error">Terjadi kesalahan, silakan coba lagi</string>
-    <string name="message_if_not_data">Tidak ada data</string>
+    <string name="message_if_disconnect">Not Connected to the Internet</string>
+    <string name="message_if_error">An error occurred, please try again</string>
+    <string name="message_if_not_data">No data</string>
     <string name="host_nav_main">navigation</string>
     <string name="label_fragment_genres">List of Film Genres</string>
     <string name="action_detail">Detail</string>
